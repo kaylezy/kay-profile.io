@@ -91,14 +91,13 @@ p{
 }
 
 .profile-sum{
-    text-align: center;
+    /* text-align: center; */
     margin-top: 20px;
     margin-bottom: 10px;
 }
 
 ol li{
     line-height: 25px;
-    
 }
 
 .profile-contact{
@@ -142,7 +141,7 @@ footer{
     
 }
 
-footer a{
+a{
     
     text-decoration: none;
 }
